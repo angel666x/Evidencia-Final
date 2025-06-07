@@ -7,6 +7,9 @@ public abstract class Persona {
         this.nombre = nombre;
     }
 
+    protected Persona() {
+    }
+
     public String getId() {
         return id;
     }

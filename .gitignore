@@ -27,3 +27,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Archivos compilados
+*.class
+
+# Archivos temporales de editores
+*.swp
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+out/
